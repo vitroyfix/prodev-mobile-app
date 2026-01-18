@@ -1,0 +1,5 @@
+export const BACKGROUNDIMAGE = require('@/assets/images/hero-icon.png')
+export const HEROLOGO = require('@/assets/images/logo.png')
+export const HEROLOGOGREEN = require("@/assets/images/logo-green.png")
+export const GOOGLELOGO = require('@/assets/images/google.png')
+export const FACEBOOKLOGO = require('@/assets/images/facebook.png')
